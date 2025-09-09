@@ -1,4 +1,4 @@
-🛒 Customer Behavior & Sales Forecasting Dashboard
+# 🛒 Customer Behavior & Sales Forecasting Dashboard
 📌 Project Overview
 
 This project analyzes customer purchasing behavior and sales performance using historical retail data.
@@ -105,5 +105,4 @@ Recommendation system (cross-selling/upselling)
 Your Name
 📧 surjendubanerjee79@gmail.com
 
-🔗 https://www.linkedin.com/feed/
- | https://github.com/surjendu6699/Customer_behaviour_-_sales_forcasting
+ https://github.com/surjendu6699/Customer_behaviour_-_sales_forcasting
