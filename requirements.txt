@@ -1,0 +1,19 @@
+# Core
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning / Clustering
+scikit-learn
+
+# Time Series Forecasting
+statsmodels
+pmdarima
+prophet
+
+# Dashboard
+streamlit
