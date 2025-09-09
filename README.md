@@ -55,7 +55,7 @@ Power BI (optional business reporting)
 
 🚀 Getting Started
 1️⃣ Clone the repo
-git clone https://github.com/your-username/sales-customer-dashboard.git
+git clone https://github.com/surjendu6699/Customer_behaviour_-_sales_forcasting
 cd sales-customer-dashboard
 
 2️⃣ Install dependencies
